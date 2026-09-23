@@ -1,5 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
+
 
 # 🚨 STOP — LIVE META AI BUILD INSIDE 🚨
 
@@ -33,7 +33,7 @@ Designed for **360px - 430px** viewport, centered phone frame on desktop.
 
 **A modern, responsive mobile Order Tracking experience — 360px to 430px optimized**
 <div align="center">
->>>>>>> origin/main
+
 
 [![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-veco--soft--assign.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://veco-soft-assign.vercel.app)
 [![💻 GitHub Repo](https://img.shields.io/badge/💻_GitHub_Repo-SayakaMeem%2FVecoSoft_Assign-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SayakaMeem/VecoSoft_Assign)
