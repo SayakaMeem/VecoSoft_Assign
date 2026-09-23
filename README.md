@@ -1,5 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
+
 
 # 🚨 STOP — LIVE META AI BUILD INSIDE 🚨
 
