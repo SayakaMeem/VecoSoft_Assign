@@ -3,10 +3,13 @@
 # VecoSoft — Order Tracking Screen (Mobile)
 
 **A modern, responsive mobile Order Tracking experience — 360px to 430px optimized**
+<div align="center">
 
-[![Live](https://img.shields.io/badge/Live-veco--soft--assign.vercel.app-black?style=flat&logo=vercel)](https://veco-soft-assign.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-SayakaMeem%2FVecoSoft_Assign-24292f?style=flat&logo=github)](https://github.com/SayakaMeem/VecoSoft_Assign)
-[![Meta AI](https://img.shields.io/badge/Meta%20AI-Interactive%20Build-0467DF?style=flat&logo=meta)](https://www.meta.ai/share/c/sVIPTzdaqE)
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-veco--soft--assign.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://veco-soft-assign.vercel.app)
+[![💻 GitHub Repo](https://img.shields.io/badge/💻_GitHub_Repo-SayakaMeem%2FVecoSoft_Assign-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SayakaMeem/VecoSoft_Assign)
+[![🤖 Meta AI Build](https://img.shields.io/badge/🤖_Meta_AI_Build-Interactive_Wireframe_&_Prompt-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.meta.ai/share/c/sVIPTzdaqE)
+
+</div>
 
 ---
 
