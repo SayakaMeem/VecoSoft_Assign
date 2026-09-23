@@ -1,117 +1,76 @@
-<div align="center">
-VecoSoft — Order Tracking Screen (Mobile)
-Modern • Responsive • Mobile-First — 390px optimized
-
+<div align="center"> <h1>VecoSoft — Order Tracking Screen (Mobile)</h1> <p><strong>Modern • Responsive • 390px Mobile-First — Apple / Shopify Inspired</strong></p>
 [Live](https://veco-soft-assign.vercel.app)
 [GitHub](https://github.com/SayakaMeem/VecoSoft_Assign)
-[Meta AI](https://www.meta.ai/share/c/sVIPTzdaqE)
 
-</div>
+<h1 style="font-size:42px; margin-bottom:6px;">🎯 OFFICIAL META AI BUILD</h1> <h2 style="font-size:30px; margin-top:0px;"> 👉 <a href="https://www.meta.ai/share/c/sVIPTzdaqE">https://www.meta.ai/share/c/sVIPTzdaqE</a> 👈 </h2> <a href="https://www.meta.ai/share/c/sVIPTzdaqE"> <img src="https://img.shields.io/badge/🔥_CLICK_TO_VIEW_INTERACTIVE_WIREFRAME_%26_PROMPT_HISTORY-CLICK_HERE-FF0000?style=for-the-badge&logo=meta&logoColor=white" alt="Meta AI Live" /> </a> <p><strong>📌 Full Prompt History • Figma 390px Spec • 3-State Interactive Wireframe • Source of Truth for Assessment</strong></p> </div>
 [!IMPORTANT]
 
-🎯 OFFICIAL BUILD & PROMPT HISTORY — REVIEW HERE
-This project was fully architected inside Meta AI. The complete interactive wireframe (390px), Figma specs, timeline logic, and prompt history are documented in this single link:
-
-👉 https://www.meta.ai/share/c/sVIPTzdaqE
-📌 Please review this link for assessment — it is the source of truth.
+📌 For Reviewers / Recruiters — Start Here
+This entire project was architected inside Meta AI. The complete design system, timeline logic, and mandatory prompt history are documented at:
+→ https://www.meta.ai/share/c/sVIPTzdaqE
+Please review this link first — it contains the full build context.
 
 📖 Overview
-A clean, Apple / Shopify-inspired Order Tracking experience built with React / Next.js + Tailwind CSS.
+A clean, responsive Order Tracking screen built with React / Next.js + Tailwind CSS.
 
-📱 Viewport: Optimized for 360px – 430px
-🖥️ Desktop: Centered 390px phone frame with soft shadow
-🆔 Tracking ID: TRK382940192
-🔗 Live: https://veco-soft-assign.vercel.app
+📱 Optimized: 360px – 430px mobile viewport
+🖥️ Desktop: Centered 390px phone frame with soft shadow + rounded-[32px]
+🆔 Tracking: TRK382940192
+🌐 Live: https://veco-soft-assign.vercel.app
 ✨ Features
 [!NOTE]
-Designed to handle real-world edge cases — not just happy path.
+Built for real-world edge cases — not just happy path.
 
 1️⃣ Visual Delivery Timeline
-🔄 4 states: Processing → Shipped → Out for Delivery → Delivered
-💫 Active pulse animation, ✅ checkmarks for completed
-📅 Timestamps + connected progress line
+🔄 Processing → Shipped → Out for Delivery → Delivered
+💫 Active pulse animation, ✅ checkmarks, 📅 timestamps
+Connected progress line
 2️⃣ Order Context
 ⏳ Estimated delivery with live countdown
 📦 Product summary (image, name, qty, price)
 📍 Shipping address + sticky Contact Support
 3️⃣ Three Critical Scenarios
-Scenario	🎨 Visual Treatment	⚡ Actions
-⚠️ Delayed Order	🔴 Red banner #FEF2F2 / #DC2626, old date strikethrough → new estimate	📞 Contact Carrier, 🔄 Reschedule, 💸 Refund
-📦 Delivered but Not Received	🟠 Orange #FFF7ED / #EA580C conflict state	🚨 Report Issue, 👁️ View Proof, 🔍 Request Investigation
-🔍 Tracking Not Available Yet	⚪ Skeleton + shimmer (clean, not broken)	ℹ️ Info message, disabled tracking
-4️⃣ Polish & UX
-🦴 500ms skeleton on scenario switch
-🍞 Error toast pattern
-📐 16–20px spacing, rounded-2xl, soft shadows
-🔤 Inter font — minimal & premium
+Scenario	🎨 Treatment	⚡ Actions
+⚠️ Delayed Order	🔴 #FEF2F2 / #DC2626, old date strikethrough → new estimate	📞 Contact Carrier, 🔄 Reschedule, 💸 Refund
+📦 Delivered Not Received	🟠 #FFF7ED / #EA580C conflict	🚨 Report Issue, 👁️ Proof of Delivery, 🔍 Investigation
+🔍 Tracking Not Available	⚪ Skeleton + shimmer	ℹ️ Info message
+4️⃣ Polish
+🦴 500ms skeleton, 🍞 toast, 📐 16-20px spacing, rounded-2xl, Inter font
 🛠️ Tech Stack
-Layer	Technology
-⚛️ Framework	React / Next.js
-🎨 Styling	Tailwind CSS
-📦 Data	Mock / Static (no backend)
-🔣 Icons	Lucide-style inline SVG
-📁 Project Structure
+⚛️ React / Next.js
+🎨 Tailwind CSS
+📦 Mock / Static Data
+🔣 Lucide inline SVG
+📁 Structure
 D:\GitProjects\VecoSoft_Assign
-├── 📄 index.html                                # Main build
-├── 📁 optional/
-│   └── 📱 order-tracking-390px-wireframe.html   # 390px wireframe spec
-├── ⚙️ vercel.json                               # Routing fix
-├── 📘 README.md
-└── 📝 PROMPT_HISTORY.md                         # Mandatory AI history
-🚀 Getting Started
+├── index.html
+├── optional/order-tracking-390px-wireframe.html
+├── vercel.json
+├── README.md
+└── PROMPT_HISTORY.md
+🚀 How to Run
 [!TIP]
-Fastest way: Just double-click index.html
-
-Option 1 — Direct
-
-bash
-index.html
-Option 2 — Local Server (VS Code)
+Double-click index.html for fastest preview.
 
 bash
 cd D:\GitProjects\VecoSoft_Assign
 npx serve .
-# http://localhost:3000
-Option 3 — Dev
-
-bash
-npm install
 npm run dev
-🌐 Deployment (Vercel)
-[!NOTE]
-Configured with vercel.json for SPA routing — prevents 404
-
+🌐 Deployment
 bash
-cd D:\GitProjects\VecoSoft_Assign
 npx vercel --prod
-🏗️ Framework: Other
-🔨 Build Command: (empty)
-📂 Output Directory: (empty)
-🔗 Project: veco-soft-assign
 [!WARNING]
-If you see 404: Ensure entry file is named index.html at root, not Order-Tracking.html.
+404? Ensure entry is index.html at root.
 
-📱 Responsive
-📱 360px – 430px: Native mobile experience
-💻 Desktop: Centered 390px frame — rounded-[32px] + shadow
-🤖 AI Development
+🤖 AI Tools Used
 [!IMPORTANT]
-📌 Complete build process, design decisions, Figma 390px specs, and interactive wireframe:
-🔗 https://www.meta.ai/share/c/sVIPTzdaqE
-
-This link is the mandatory prompt history for VecoSoft assessment.
-
-Built with Meta AI — planning, design, coding, debugging.
-
-Detailed log also in PROMPT_HISTORY.md
+📌 Full Build & Prompt: https://www.meta.ai/share/c/sVIPTzdaqE
+Mandatory for assessment — contains Figma spec + 3-state wireframe.
 
 👩‍💻 Author
 Sayaka Meem — Frontend Assessment — VecoSoft
 
-<div align="center">
-🔗 Final Review Link
-📌 https://www.meta.ai/share/c/sVIPTzdaqE — Click to view full interactive build & prompt history 📌
-[!TIP]
-Recruiters / Reviewers: Start here ↑ for full context.
+<div align="center"> <h2 style="font-size:32px;">🔗 Don't Miss the Build</h2> <h1 style="font-size:36px;">
+<a href="https://www.meta.ai/share/c/sVIPTzdaqE">👉 https://www.meta.ai/share/c/sVIPTzdaqE 👈</a>
 
-</div>
+</h1> </div>
