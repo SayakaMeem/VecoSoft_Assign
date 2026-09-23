@@ -59,34 +59,43 @@ Designed for **360px to 430px viewport** on mobile, with a centered 390px phone 
 
 ### 3. Three Interactive Scenarios
 
-| Scenario | Visual Treatment | User Actions |
+## 🎯 Order Status Scenarios
+
+| Scenario | 🎨 Visual Treatment | 👤 User Actions |
 | :--- | :--- | :--- |
-| **Delayed Order** | Red / amber warning, old date strikethrough → new estimate | Contact Carrier, Reschedule, Refund |
-| **Delivered but Not Received** | Orange warning, conflict state | Report Issue, View Proof of Delivery, Request Investigation |
-| **Tracking Not Available Yet** | Clean empty state, shimmer, skeleton timeline | Informational message |
+| **⚠️ Delayed Order** | 🔴 Red / 🟡 Amber alert<br>~~Old date~~ → **New estimate**<br>Animated pulse on delay badge | 📞 Contact Carrier<br>📅 Reschedule<br>💸 Request Refund |
+| **📦 Delivered but Not Received** | 🟠 Orange warning<br>⚔️ Conflict state banner<br>Proof vs. claim mismatch | 🚨 Report Issue<br>🧾 View Proof of Delivery<br>🔍 Request Investigation |
+| **⏳ Tracking Not Available Yet** | ✨ Clean empty state<br>💫 Shimmer / Skeleton timeline<br>Informational placeholder | ℹ️ Informational message only |
 
 ### 4. Polish and UX Craft
 
-- Loading skeleton (500ms on scenario switch)
-- Error toast state
-- Empty state illustration with pure CSS
-- Clean hierarchy, 16px to 20px spacing, rounded-2xl cards, soft shadows
-- Inter font family
 
-## Tech Stack
+### 🔄 Interaction States
+- 💀 **Loading Skeleton:** 500ms shimmer on scenario switch (timeline + cards)
+- 🚨 **Error Toast:** Top-right toast with auto-dismiss (4s) + retry action
+- 🎨 **Empty State:** Pure CSS illustration (no images) + friendly copy
 
-- **Framework:** React / Next.js
-- **Styling:** Tailwind CSS
-- **Data:** Mock / Static Data (no backend)
-- **Icons:** Lucide-style inline SVG
+### 🎯 Design Principles
+- 📐 **Spacing:** Clean hierarchy, `16px` to `20px` rhythm (4pt grid)
+- 🃏 **Cards:** `rounded-2xl` (16px), soft shadows `shadow-sm` → `shadow-lg` on hover
+- 🔤 **Typography:** `Inter` font family - 400 / 500 / 600 weights
+- ⚪ **Aesthetic:** Minimal, airy, lots of whitespace
+## 🛠️ Tech Stack
+
+- ⚛️ **Framework:** React / Next.js
+- 🎨 **Styling:** Tailwind CSS
+- 📦 **Data:** Mock / Static Data (no backend)
+- ✨ **Icons:** Lucide-style inline SVG
 
 ## Project Structure
-76 lines hidden
-D:\GitProjects\VecoSoft_Assign
-├── index.html
-├── vercel.json
-├── README.md
-└── PROMPT_HISTORY.md (mandatory)
+VecoSoft_Assign/
+├── 🌐 optional/ # Optional Mocha deployment
+│ ├── index.html
+│ └── vercel.json
+├── 📄 index.html # Main application
+├── ⚙️ vercel.json # Vercel configuration
+├── 📖 README.md # Documentation + live link
+└── 📝 PROMPT_HISTORY.md # (Mandatory) AI prompts used
 
 ## How to Run
 
