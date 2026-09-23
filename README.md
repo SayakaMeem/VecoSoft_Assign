@@ -1,10 +1,31 @@
+<div align="center">
+
+# 🚨 STOP — LIVE META AI BUILD INSIDE 🚨
+
+### 👇👇👇 OFFICIAL PROMPT & INTERACTIVE WIREFRAME — CLICK TO VIEW 👇👇👇
+
+## [🔥🔥🔥 https://www.meta.ai/share/c/sVIPTzdaqE 🔥🔥🔥](https://www.meta.ai/share/c/sVIPTzdaqE)
+
+[![🔥 META AI LIVE](https://img.shields.io/badge/🔥_LIVE_META_AI_BUILD-CLICK_HERE_TO_VIEW-FF0000?style=for-the-badge&logo=meta&logoColor=white)](https://www.meta.ai/share/c/sVIPTzdaqE)
+[![390px WIREFRAME](https://img.shields.io/badge/WIREFRAME-390px_MOBILE-000000?style=for-the-badge)](https://www.meta.ai/share/c/sVIPTzdaqE)
+[![3 STATES](https://img.shields.io/badge/STATES-Delayed_%7C_Not_Received_%7C_No_Tracking-FF6B00?style=for-the-badge)](https://www.meta.ai/share/c/sVIPTzdaqE)
+
+> **⚠️ ATTENTION RECRUITER / REVIEWER:** This entire project was architected inside this Meta AI thread. **Full prompt history, Figma specs, and interactive 390px wireframe are inside this link.**
+
+### [➡️ https://www.meta.ai/share/c/sVIPTzdaqE ⬅️](https://www.meta.ai/share/c/sVIPTzdaqE)
+
+</div>
+
+---
+
 # VecoSoft - Order Tracking Screen (Mobile)
 
 A modern, responsive mobile Order Tracking experience built with React / Next.js and Tailwind CSS.
-Designed for 360px - 430px viewport, centered phone frame on desktop.
+Designed for **360px - 430px** viewport, centered phone frame on desktop.
 
 **Live:** https://veco-soft-assign.vercel.app  
-**Repo:** https://github.com/SayakaMeem/VecoSoft_Assign
+**Repo:** https://github.com/SayakaMeem/VecoSoft_Assign  
+**🤖 PROMPT HISTORY (MANDATORY):** **[https://www.meta.ai/share/c/sVIPTzdaqE](https://www.meta.ai/share/c/sVIPTzdaqE)**
 
 ### ✨ Features
 
@@ -44,23 +65,21 @@ D:\GitProjects\VecoSoft_Assign
 ├── index.html (main build - order tracking screen)
 ├── vercel.json (routing fix for Vercel)
 ├── README.md
-└── PROMPT_HISTORY.md (AI usage history - mandatory)
+└── PROMPT_HISTORY.md (AI usage history - mandatory
 
+🚀 How to Run
+Option 1 - Direct:
+Double-click index.html
 
-### 🚀 How to Run
+Option 2 - Local Server (VS Code):
 
-**Option 1 - Direct:**
-Double-click `index.html`
-
-**Option 2 - Local Server (VS Code):**
-```bash
+bash
 cd D:\GitProjects\VecoSoft_Assign
 npx serve .
 # open http://localhost:3000
-
 Option 3 - Dev:
 
-Bash
+bash
 npm install
 npm run dev
 🌐 Deployment (Vercel)
@@ -68,9 +87,7 @@ This project is configured for Vercel with vercel.json.
 
 Deploy from VS Code terminal:
 
-Deploy from VS Code terminal:
-
-Bash
+bash
 cd D:\GitProjects\VecoSoft_Assign
 npx vercel --prod
 Framework: Other
@@ -84,9 +101,12 @@ Optimized for 360px - 430px. Desktop shows centered 390px phone frame with shado
 
 🤖 AI Tools Used
 Meta AI for planning, design, coding, debugging
-Complete prompt history available in PROMPT_HISTORY.md
-👩‍💻 Author
+Complete prompt history & interactive build: https://www.meta.ai/share/c/sVIPTzdaqE
+
+👩💻 Author
 Sayaka Meem - Frontend Assessment - VecoSoft
 
-
-
+<div align="center">
+🔗 AGAIN — DON'T MISS THE BUILD
+👉 https://www.meta.ai/share/c/sVIPTzdaqE 👈
+</div>
